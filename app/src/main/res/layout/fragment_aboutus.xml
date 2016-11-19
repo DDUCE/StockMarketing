@@ -1,0 +1,109 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#23a9a0a0">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_horizontal"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="10dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="185dp"
+                    android:layout_height="185dp"
+                    android:layout_marginLeft="16dp"
+                    android:src="@drawable/vimox"
+                    android:scaleType="centerCrop" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="10dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:fontFamily="Roboto-Thin"
+                    android:textStyle="normal"
+                    android:layout_marginLeft="8dp"
+                    android:textColor="#212121"
+                    android:textSize="18dp"
+
+                    android:text=" Vimox Shah,CE-7th Sem " />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_horizontal"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginBottom="10dp">
+                    <Button
+
+                        android:fontFamily="Roboto-Thin"
+                        android:id="@+id/img_f"
+                        android:layout_width="110dp"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center"
+                        android:gravity="center_vertical"
+                        android:textAllCaps="true"
+                        android:background="@drawable/custom_fb"
+                        android:textColor="#ffffff"
+
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginBottom="5dp"
+                        android:text="Facebook "
+                        android:textAlignment="center"/>
+                    <Button
+
+                        android:fontFamily="Roboto-Thin"
+                        android:id="@+id/img_t"
+                        android:layout_width="110dp"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center_vertical"
+                        android:gravity="center_vertical"
+                        android:textAllCaps="true"
+                        android:textColor="#ffffff"
+                        android:background="@drawable/custom_twitter"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="3dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginBottom="5dp"
+                        android:text=" Twitter  "
+                        android:textAlignment="center"/>
+                </LinearLayout>
+            </LinearLayout>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#c0c0c0"/>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</LinearLayout>

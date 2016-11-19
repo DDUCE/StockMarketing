@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        card_view:cardPreventCornerOverlap="false"
+        card_view:cardUseCompatPadding="true"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        card_view:cardCornerRadius="3dp"
+        android:focusable="true"
+        android:clickable="true"
+        android:foreground="?android:attr/selectableItemBackground">
+
+
+
+
+            <TableLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp">
+
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:textSize="25sp"
+                        android:gravity="left"
+                        android:layout_marginLeft="1dp"
+                        android:text=" 1 USD"
+                        android:drawableTint="@color/colorPrimary"
+                        android:textColor="#000000"/>
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_weight="0.01"
+                        android:layout_height="match_parent"
+                        android:background="#cccccc"/>
+
+                    <TextView
+                        android:id="@+id/tv_previousclose"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:layout_height="wrap_content"
+                        android:textSize="25sp"
+                        android:gravity="left"
+                        android:textColor="#000000"/>
+                </TableRow>
+
+
+
+            </TableLayout>
+
+
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>

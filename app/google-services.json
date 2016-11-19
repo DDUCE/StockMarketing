@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "990495455884",
+    "firebase_url": "https://trademanager-46180.firebaseio.com",
+    "project_id": "trademanager-46180",
+    "storage_bucket": "trademanager-46180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990495455884:android:4ba7b24fbff9e985",
+        "android_client_info": {
+          "package_name": "manager.trade.techno.trademanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990495455884-b87v6rl05a4qluslnpi8atg0u48smg1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "manager.trade.techno.trademanager",
+            "certificate_hash": "314909F36ED71F23C95EC8A793A5B45D62A188B1"
+          }
+        },
+        {
+          "client_id": "990495455884-2bq53ttfu5jutsel2qs9ndfut331al8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfsPxoh1TuuUzxY7MjPfo1tizMmNcDtmU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990495455884-2bq53ttfu5jutsel2qs9ndfut331al8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

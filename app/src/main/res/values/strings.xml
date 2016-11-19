@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TradeManager</string>
+    <string name="mask_on_item_clicked" formatted="false">"On item clicked, position = %s, name = %s"</string>
+    <string name="change_orientation">Change orientation</string>
+    <string name="bottom_left_pager_text">Bottom left pager text</string>
+    <string name="change_gravity">Change gravity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+</resources>

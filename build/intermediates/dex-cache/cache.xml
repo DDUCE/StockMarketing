@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4846b48f089200cf4aaac50c0c915fc70628d010\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8d9b5da0123444ee7df082cd6821c364c5a22e0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_fe8db0f698b2299de984881a48a33de5d06c7b6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.0_1979b5fc91e6be377b5d434749018e5f7d88dacc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.github.scottyab\showhidepasswordedittext\0.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b21b96a99ee47704701ab108a3408ed3b6c08279">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.scottyab-showhidepasswordedittext-0.6_6bdd617c8df69721bf69d9f68ddbf3b29e021051\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_57068df696187bb4cf65927d5a513a39a1780476\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_525744e026f0b567fa57433116365f993fc08d47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_1fa403510cee7e9a6afd57d75d6d43e47849cb4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2af3e6e13aa5cf83dfc60e8b564e50392cdfe04c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="820acba36fa86ab15cb3d472b654dedb495075fd">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.2.0_5bfd21dabcaac42b4abf39df35e12d1294dba639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_79de4f1ca2f67e03debfa5168766ae141fecb311\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="734f779fc6347fe6932ae0ae510f958aadf55e45">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.4.3_fc4d0c23591908ab504f8fdfa818668ab78a13b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_ebc8be58925ef634ae6062fe9c388c8d73ff3eea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.easing-library-1.0.1_f2d8133f06299e59b26950d5b66c9ebe277f0485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_44aa8526aabe1dc1b0030153abeb2b90aadb51c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_a9e3224d9e4860ab47a25c40e7cc0a12c0f664e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_9e777f5f8f88dfc320acee99530ec8bdc0791aa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_539b2b78ea2de281568d6a9ee4363962071ac7cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_5fb32730210694dd13d1c22d4e00ea36b4b7e4c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_44f235209b5dad1b0f86cf05005c81248d422a82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_66ad6d25dbc09d4add0578c301c313d03b27cdf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_83716c1b2b5bf3737f712534841412548284ecb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_fd47b67ca4302f294e63d1a80956c4a1feb8bd7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.cleveroad\loopbar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4c9bbf376a16afcbdf2cf9872977cab3274a933f">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.cleveroad-loopbar-1.0.0_2c55945baefa4d71ba31581dda63cd9f03a5f382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.miguelcatalan\materialsearchview\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.miguelcatalan-materialsearchview-1.4.0_f2982f1fccf3c4bb473b9ba6843f818ec054f93f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_5d2d17dd10cb3ef15e62e6ffcf49cae34a11dfe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_1e20e0d48c5008c8c69ae606d805d31bbccdf6a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_06e3568c1ed64b2365adbded1d8660210d877d03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.github.lzyzsd\circleprogress\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e6f9fb0d2ea982d656d6dca785a9097659395874">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.lzyzsd-circleprogress-1.1.0_afae92b590c6c5538489aa23af9563d0cbfb4f2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\me.himanshusoni.quantityview\quantity-view\1.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="44d695ff1c388afe70bd3fa759af617bbb14b868">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.himanshusoni.quantityview-quantity-view-1.1.1_264d231cb6f513343de7610ebba57562672e5933\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="28a5452b7e76f5ab0c3b010739646cf3b33027b4">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a9492d9cddd90ea13fff5239b58b20a6d62ffcc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7666bc80f3be1a7da4cce81a49edd088b61def14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_72bb2cdd88c492c639726610e0b4c11b2d1774c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1dcb8005f460d87baed0abdc9ec997a58797856e">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_104226ad2909cf4d187916a119a8f888a98148e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_7e0f32df2d12cfcedae28e0cc2ede8fba4618f30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_498bbf79cb6f142c0eefc9aa07a7333095f0e68a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_346722f9b89100c5a00a65ff8737c97454cb1bc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_5bf9080b81d89ae72594f62dc2f00320ce442034\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_0c6158894e26accd54ed1453e25f3e3744456aed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\net.colindodd\toggleimagebutton\1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="589073e2f4ae2c8d70b712fe3a43491f99e9da34">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.colindodd-toggleimagebutton-1.1_303ef631df5cd0ea7cadddcb8d63ed5e5a6b1e8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_2f123c95b9cf316da8e4979a8dc8e6376084290c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.3\65fd012581ded67bc20945d85c32b4598c3a9cf1\jsoup-1.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.8.3_ec8752e1e78e26d6a7e0806f487550104b63e3bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.1.4_d0cf26e903aa58d1e444409f5051ab536c1619c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fba0b530db01015b092c4a8ba01445c9656ad7c2">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9ccce8a713b8288570f18b58407902c8c2bfff72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_10b7b1643752df4806ca9295a018898b6da9b962\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6bf34c4b4fcd3f6913eca652d13c51dbde51c3a4">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.2.0_c8b0f18efcdbddff496be54a32880d1e7981653d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_f8bead93a0b2cdbd7b5f0435f3443176c796ca2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_0e59de9ba1ec68c244ecd59f54e176e41beb17dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.androidanimations-library-1.1.3_966ea5be4a401ae90f7a3b3f46c6a1ff2db62711\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4e4589532c959a172fb78b155ab9795b080e5cca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_c50fe1f4cf783a24e153563654dcc69c93269cf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\VimoxSShah\AndroidStudioProjects\TradeManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_7ec9b272465d0730d472dfc17ca78a98d3fa8b14\classes.dex" />
+    </item>
+
+</items>
