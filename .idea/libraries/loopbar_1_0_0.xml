@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="loopbar-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.cleveroad/loopbar/1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.cleveroad/loopbar/1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cleveroad/loopbar/1.0.0/f06d8a94b9b614c706324abebfc200b6d7503b05/loopbar-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

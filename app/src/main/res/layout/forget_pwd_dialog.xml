@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:textSize="21dp"
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Forget Password ?"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:background="#f1f1f1"/>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <EditText android:id="@+id/et_frg_pwd"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="  Enter your Email"
+            android:imeActionLabel="Submit"
+            android:imeOptions="actionUnspecified"
+            android:inputType="textEmailAddress"
+            android:singleLine="true"
+            android:drawableLeft="@android:drawable/ic_menu_edit"
+            android:layout_margin="5dp"
+            android:padding="10dp"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="   Submit   "
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:background="@drawable/user_profile_image_background"
+        android:padding="13dp"
+        android:id="@+id/btn_frg_pwd"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

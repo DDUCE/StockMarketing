@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cordinatelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+
+            <AutoCompleteTextView
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:layout_height="match_parent"
+                android:id="@+id/et_companyname"
+                android:padding="10dp"
+                android:hint="Enter Company Name"
+                android:ems="10"
+                android:layout_gravity="center"
+                android:background="@android:drawable/editbox_dropdown_light_frame"/>
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_weight="0.5"
+                android:layout_height="match_parent"
+                android:text="Add"
+                android:id="@+id/btn_add"
+                android:textColor="#fff"
+                android:foregroundTint="@color/md_cyan_700"
+                android:backgroundTint="@color/colorAccent"
+                android:layout_marginLeft="2dp"
+                android:layout_gravity="center"/>
+
+        </LinearLayout>
+
+
+
+        <TextView
+            android:id="@+id/titlepage_name"
+            android:text="My Watch List : "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="#000000"
+            android:paddingLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="15dp"
+            android:textSize="27sp"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#212121"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/post_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true" />
+
+
+
+
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Refresh "
+        android:id="@+id/btn_refrsh"
+        android:drawableLeft="@android:drawable/stat_notify_sync_noanim"
+        android:drawablePadding="5dp"
+        android:textAllCaps="false"
+        android:textColor="#fff"
+        android:foregroundTint="@color/md_cyan_700"
+        android:backgroundTint="@color/colorAccent"
+        android:layout_marginLeft="2dp"
+        android:layout_gravity="center_horizontal|bottom"/>
+
+
+
+
+
+
+</android.support.design.widget.CoordinatorLayout>

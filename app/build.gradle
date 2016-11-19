@@ -1,0 +1,83 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.1"
+    useLibrary 'org.apache.http.legacy'
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    defaultConfig {
+        applicationId "manager.trade.techno.trademanager"
+        minSdkVersion 16
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            debuggable false
+            jniDebuggable false
+        }
+        debug {
+        }
+        productFlavors {
+        }
+    }
+    dexOptions {
+        // Prevent OutOfMemory with MultiDex during the build phase
+        javaMaxHeapSize "4g"
+    }
+
+
+    repositories {
+        maven {
+            url "https://jitpack.io"
+        }
+    }
+
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    //this lib is for animation
+    //for animation of recyclerview====
+    //for html parsing
+    //Adding Firebase
+
+
+    compile 'com.android.support:appcompat-v7:24.2.0'
+    compile 'me.zhanghai.android.materialprogressbar:library:1.1.4'
+    compile 'com.github.scottyab:showhidepasswordedittext:0.6'
+    compile 'de.hdodenhof:circleimageview:2.0.0'
+    compile 'com.miguelcatalan:materialsearchview:1.4.0'
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'me.himanshusoni.quantityview:quantity-view:1.1.1'
+    compile 'net.colindodd:toggleimagebutton:1.1'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.github.lzyzsd:circleprogress:1.1.0@aar'
+    compile 'com.android.support:support-annotations:24.2.0'
+    compile 'com.android.support:support-v4:24.2.0'
+    compile 'com.android.support:support-v13:24.2.0'
+    compile 'com.android.support:design:24.2.0'
+    compile 'com.android.support:gridlayout-v7:24.2.0'
+    compile 'com.android.support:recyclerview-v7:24.2.0'
+    compile 'com.android.support:cardview-v7:24.2.0'
+    compile 'com.cleveroad:loopbar:1.0.0'
+    compile 'com.squareup.okhttp3:okhttp:3.3.0'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.daimajia.easing:library:1.0.1@aar'
+    compile 'com.daimajia.androidanimations:library:1.1.3@aar'
+    compile 'org.jsoup:jsoup:1.8.3'
+    compile 'com.firebaseui:firebase-ui-database:0.4.3'
+    compile 'com.google.firebase:firebase-auth:9.4.0'
+    compile 'com.google.firebase:firebase-database:9.4.0'
+}
+//for==google==playserive
+apply plugin: 'com.google.gms.google-services'

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/nav_live"
+            android:title="Live Status"
+            android:icon="@drawable/live_market_icon"/>
+     <item
+            android:id="@+id/nav_watchlist"
+            android:title="My Watch List"
+            android:icon="@drawable/watch_list" />
+
+        <item
+            android:id="@+id/nav_tips"
+            android:title="Tips"
+            android:icon="@drawable/tips_icon" />
+
+
+
+        <item
+            android:id="@+id/nav_topgainer"
+            android:title="Top Gainer"
+            android:visible="false"
+            android:icon="@drawable/top_gainer"/>
+
+         <item
+            android:id="@+id/nav_toplooser"
+            android:title="Top Loser"
+             android:visible="false"
+            android:icon="@drawable/top_loser" />
+
+        <item
+            android:id="@+id/nav_currency"
+            android:title="Currency"
+            android:icon="@drawable/currency_icon"/>
+
+
+
+        <item
+            android:id="@+id/nav_share"
+            android:title="Share"
+            android:icon="@drawable/share"/>
+        <item
+            android:id="@+id/nav_feedback"
+            android:title="Rate/Review Us"
+            android:icon="@drawable/feedback_icon"/>
+
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout"
+            android:icon="@drawable/logout"/>
+
+        <item
+            android:id="@+id/nav_exit"
+            android:title="Exit"
+            android:icon="@drawable/exit" />
+
+
+        <item android:title="More" >
+            <menu>
+                <item
+                    android:id="@+id/nav_aboutus"
+                    android:title="About us"
+                    android:icon="@drawable/aboutus"/>
+
+              </menu>
+        </item>
+
+
+        <item android:title="Admin" >
+            <menu>
+                <item
+                    android:id="@+id/nav_admin_tips"
+                    android:title="Admin Tips"
+                    android:icon="@drawable/tips_icon"/>
+
+            </menu>
+        </item>
+    </group>
+
+
+
+</menu>

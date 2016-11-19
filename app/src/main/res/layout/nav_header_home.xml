@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:background="@color/md_blue_A400"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90pt"
+        android:orientation="vertical"
+        android:background="@drawable/navigation_header">
+
+    </LinearLayout>
+
+
+
+
+
+
+
+    <LinearLayout
+        android:id="@+id/ll_header_profile"
+        android:layout_width="match_parent"
+        android:layout_height="30pt"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:paddingLeft="10dp">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="bottom">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="TRADE   MANAGER"
+                android:layout_gravity="center"
+                android:textSize="17sp"
+                android:textColor="#FFF"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:id="@+id/tv_mobileno" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="\''Monitor your stock any where any time.\''"
+                android:id="@+id/tv_email_address_header"
+                android:gravity="center"
+                android:textSize="13sp"
+                android:textColor="#fff" />
+
+        </LinearLayout>
+
+      <!--  <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:src="@android:drawable/ic_menu_edit"
+            android:layout_height="match_parent" />-->
+
+
+    </LinearLayout>
+
+
+    <ImageButton
+        android:id="@+id/user_profile_photo"
+        android:layout_width="76dp"
+        android:layout_height="76dp"
+        android:background="@drawable/circleshape"
+        android:elevation="4dp"
+        android:src="@drawable/appicon"
+        android:layout_marginBottom="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>
